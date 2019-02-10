@@ -22,7 +22,7 @@ Sophomores'21
   * Vanessa Apira            [Africana Studie major, GWS minor; has taken 1101 and DS in highschool, but no CS at Bowdoin]
   * Juliana Taube            [Math major/ deciding between CS and Biology minor] 
   * Nell Fusco               [?]
-  
+  * Irene Lunt               [intends MathCS] 
   
 Juniors'20
   * Damini Singh       [CS & Math major]
