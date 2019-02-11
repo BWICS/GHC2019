@@ -10,7 +10,8 @@ First years'22
   * Jigyasa Subedi [1101 (f18), 2101 (s19); she does not know, she continued with CS because she really liked 1101]
   * Zeynep Tuna    [1101(f18); could not get into 2101; CS major, econ minor; experience in CS from highschool in Turkey]
   * Sonia Shah     [1103(f18); intends major Biology, minor CS]; APPLIED, ref EC
-  * Laura Friel    [?]
+  * Laura Friel    []
+  * Adelaide Evans []
   
 
 Sophomores'21
@@ -21,7 +22,7 @@ Sophomores'21
   * Kim Hancock              [Math major, CS minor, 2101 (f18), Algorithms(s19]
   * Vanessa Apira            [Africana Studie major, GWS minor; has taken 1101 and DS in highschool, but no CS at Bowdoin]
   * Juliana Taube            [Math major/ deciding between CS and Biology minor] 
-  * Nell Fusco               [?]
+  * Nell Fusco               []
   * Irene Lunt               [intends MathCS] 
   
 Juniors'20
@@ -40,7 +41,7 @@ Juniors'20
 
 ---------------------------------------------
 first years to reach out to EC:  
-* Adelaide Evans
+* Adelaide Evans  -> interested (late reply)
 * Nicole Nigro  --> interested 
 * Rose Xi --> interested 
 * Sonia Shah --> interested 
