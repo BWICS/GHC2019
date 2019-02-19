@@ -34,6 +34,7 @@ Juniors'20
   * Allie Gross        [CS-EnvStudies major]
   * Charlotte Johnston [CS-Education major]
   * Lila Hitzig        [CS-Education major]
+  * Hannah Donovan     [MathCS, ES minor]
 
 
 
