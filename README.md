@@ -32,7 +32,7 @@ Juniors'20
   * Louiza Izydorczak  [CS major]
   * Emme McCabe        [CS major; econ minor] 
   * Allie Gross        [CS-EnvStudies major]
-  * Charlotte Johnston [CS-Education major]
+  * Charlotte Johnston [CS-Education major] applied, ref=Harmon 
   * Lila Hitzig        [CS-Education major]
   * Hannah Donovan     [MathCS, ES minor]
 
