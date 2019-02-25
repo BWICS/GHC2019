@@ -20,7 +20,8 @@ Sophomores'21
   * Nawapan Wattanawanichkul [intends Math major, CS minor, 1101 (f17), 2101 (s18); note: no cs classes in sophomore year] 
   * Anaise Manikunda         [intends MathCS; French minor, 1101 (f17), 2101(s18), 2200 (f18) FAIL; 2330 (s19); ] 
   * Kim Hancock              [Math major, CS minor, 2101 (f18), Algorithms(s19]
-  * Vanessa Apira            [Africana Studie major, GWS minor; has taken 1101 and DS in highschool, but no CS at Bowdoin]
+  * Vanessa Apira            [Africana Studie major, GWS minor; has taken 1101 and DS in highschool, but no CS at Bowdoin] applied,  
+                             ref=Chown
   * Juliana Taube            [Math major/ deciding between CS and Biology minor] 
   * Nell Fusco               []
   * Irene Lunt               [intends MathCS] 
