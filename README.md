@@ -28,7 +28,7 @@ Sophomores'21
   
 Juniors'20
   * Damini Singh       [CS & Math major]
-  * Anais Sarrazin     [CS & Math major]
+  * Anais Sarrazin     [CS & Math major]; APPLIED
   * Pauline Unietis    [CS major]
   * Louiza Izydorczak  [CS major]
   * Emme McCabe        [CS major; econ minor] 
@@ -36,7 +36,7 @@ Juniors'20
   * Charlotte Johnston [CS-Education major] APPLIED, ref=Harmon 
   * Lila Hitzig        [CS-Education major]
   * Hannah Donovan     [MathCS, ES minor]
-  * Becky Berman       [CS minor]
+  * Becky Berman       [CS minor]; APPLIED
 
 
 
