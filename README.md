@@ -7,7 +7,7 @@ First years'22
   * Yadira Cruz    [1103 (f18); 2101 (s19); intends CS major & minor:Sociology with DCS] 
   * Rose Xi        [1103 (f18); 2101 (s19); intends CS major& Bio major]
   * Nicole Nigro   [1103 (f18); 2101 (s19); intends CS major & sociology either as minor or double major or self-designed major]  
-  * Jigyasa Subedi [1101 (f18), 2101 (s19); she does not know, she continued with CS because she really liked 1101]
+  * Jigyasa Subedi [1101 (f18), 2101 (s19); she does not know, she continued with CS because she really liked 1101]; APPLIED 
   * Zeynep Tuna    [1101(f18); could not get into 2101; CS major, econ minor; experience in CS from highschool in Turkey]
   * Sonia Shah     [1103(f18); intends major Biology, minor CS]; APPLIED, ref EC
   * Laura Friel    []
@@ -22,7 +22,7 @@ Sophomores'21
   * Kim Hancock              [Math major, CS minor, 2101 (f18), Algorithms(s19]
   * Vanessa Apira            [Africana Studie major, GWS minor; has taken 1101 and DS in highschool, but no CS at Bowdoin] applied,  
                              ref=Chown
-  * Juliana Taube            [Math major/ deciding between CS and Biology minor] 
+  * Juliana Taube            [Math major/ deciding between CS and Biology minor]; APPLIED
   * Nell Fusco               []
   * Irene Lunt               [intends MathCS] 
   
@@ -32,11 +32,11 @@ Juniors'20
   * Pauline Unietis    [CS major]
   * Louiza Izydorczak  [CS major]
   * Emme McCabe        [CS major; econ minor] 
-  * Allie Gross        [CS-EnvStudies major]
-  * Charlotte Johnston [CS-Education major] applied, ref=Harmon 
+  * Allie Gross        [CS-EnvStudies major]; APPLIED
+  * Charlotte Johnston [CS-Education major] APPLIED, ref=Harmon 
   * Lila Hitzig        [CS-Education major]
   * Hannah Donovan     [MathCS, ES minor]
-
+  * Becky Berman       [CS minor]
 
 
 
