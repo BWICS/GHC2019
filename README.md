@@ -6,7 +6,7 @@ Preliminary interest list:
 First years'22
   * Yadira Cruz    [1103 (f18); 2101 (s19); intends CS major & minor:Sociology with DCS] 
   * Rose Xi        [1103 (f18); 2101 (s19); intends CS major& Bio major]
-  * Nicole Nigro   [1103 (f18); 2101 (s19); intends CS major & sociology either as minor or double major or self-designed major]  
+  * Nicole Nigro   [1103 (f18); 2101 (s19); intends CS major & sociology either as minor or double major or self-designed major]; APPLIED
   * Jigyasa Subedi [1101 (f18), 2101 (s19); she does not know, she continued with CS because she really liked 1101]; APPLIED 
   * Zeynep Tuna    [1101(f18); could not get into 2101; CS major, econ minor; experience in CS from highschool in Turkey]
   * Sonia Shah     [1103(f18); intends major Biology, minor CS]; APPLIED, ref EC
