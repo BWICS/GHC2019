@@ -5,7 +5,7 @@ Preliminary interest list:
 
 First years'22
   * Yadira Cruz    [1103 (f18); 2101 (s19); intends CS major & minor:Sociology with DCS] 
-  * Rose Xi        [1103 (f18); 2101 (s19); intends CS major& Bio major]
+  * Rose Xi        [1103 (f18); 2101 (s19); intends CS major& Bio major]; APPLIED
   * Nicole Nigro   [1103 (f18); 2101 (s19); intends CS major & sociology either as minor or double major or self-designed major]; APPLIED
   * Jigyasa Subedi [1101 (f18), 2101 (s19); she does not know, she continued with CS because she really liked 1101]; APPLIED 
   * Zeynep Tuna    [1101(f18); could not get into 2101; CS major, econ minor; experience in CS from highschool in Turkey]; APPLIED
@@ -35,7 +35,7 @@ Juniors'20
   * Allie Gross        [CS-EnvStudies major]; APPLIED
   * Charlotte Johnston [CS-Education major] APPLIED, ref=Harmon 
   * Lila Hitzig        [CS-Education major]
-  * Hannah Donovan     [MathCS, ES minor]
+  * Hannah Donovan     [MathCS, ES minor]; APPLIED
   * Becky Berman       [CS minor]; APPLIED
 
 
