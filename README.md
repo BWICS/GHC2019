@@ -15,7 +15,7 @@ First years'22
   
 
 Sophomores'21
-  * Alina Lam                [CS major, minor:unsure, 1101 & 2101,2200(f18); HCI (s19). Note: attended GHC18 as first year]
+  * Alina Lam                [CS major, minor:unsure, 1101 & 2101,2200(f18); HCI (s19). Note: attended GHC18 as first year]; APPLIED
   * Alexandra Hummel         [CS & Gov double major]
   * Nawapan Wattanawanichkul [intends Math major, CS minor, 1101 (f17), 2101 (s18); note: no cs classes in sophomore year] 
   * Anaise Manikunda         [intends MathCS; French minor, 1101 (f17), 2101(s18), 2200 (f18) FAIL; 2330 (s19); ] 
