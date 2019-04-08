@@ -23,9 +23,9 @@ Sophomores'21
   * Vanessa Apira            [Africana Studie major, GWS minor; has taken 1101 and DS in highschool, but no CS at Bowdoin] applied,  
                              ref=Chown
   * Juliana Taube            [Math major/ deciding between CS and Biology minor]; APPLIED
-  * Nell Fusco               []
+  * Nell Fusco               [?]
   * Irene Lunt               [intends MathCS] 
-  * Anam Shah                [??] replied very late
+  * Anam Shah                [CS & asian studies major; spring 19 in ALgorithma sand ItS] 
   
 Juniors'20
   * Damini Singh       [CS & Math major]
