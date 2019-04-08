@@ -25,6 +25,7 @@ Sophomores'21
   * Juliana Taube            [Math major/ deciding between CS and Biology minor]; APPLIED
   * Nell Fusco               []
   * Irene Lunt               [intends MathCS] 
+  * Anam Shah                [??] replied very late
   
 Juniors'20
   * Damini Singh       [CS & Math major]
