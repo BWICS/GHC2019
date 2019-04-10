@@ -12,6 +12,7 @@ First years'22
   * Sonia Shah     [1103(f18); intends major Biology, minor CS]; APPLIED, ref EC
   * Laura Friel    []
   * Adelaide Evans []
+  * Phuong Luong  [1101 s19, recommended by Harmon, interested in CS major, very interested in GHC]
   
 
 Sophomores'21
@@ -42,24 +43,3 @@ Juniors'20
 
 
 
----------------------------------------------
-first years to reach out to EC:  
-* Adelaide Evans  -> interested (late reply)
-* Nicole Nigro  --> interested 
-* Rose Xi --> interested 
-* Sonia Shah --> interested 
-* Miranda Viederman
-* Melissa Horan
-* Adrienne Miller
-* Sophia Pahl
-first years to reach out to SD: 
-* Juliana Taube --> interested 
-* Emma Sherrill
-more sophomores to reach out to: 
-in ALgorithms fall 18  from SM: Nell Fusco, Jaya Blanchard, Christine Chapman-Sung, Cara Nunley 
-in 2101 fall 18 from SB: 
-   * Kim Hancock ---> interested 
-   * Aly Hummel ---> interested 
-   * Anam Shah
-   * Kayla Snyder --> interested 
- Ya’Kuana Davis in 2101 from EC
