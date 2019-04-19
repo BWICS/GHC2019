@@ -1,7 +1,7 @@
 # GHC2019
 
 
-## Final list
+## Final list (April 2019)
 
 ### FIRST YEARS '22
 
@@ -19,7 +19,7 @@
 
 
 ### JUNIORS'20: 
-1.
+1. Pauline Unietis *[applied for GHC fellowship, but haven't heard back;  CS major with an English minor;  taken Intro, Data Structures, Algorithms, Systems, AI, Cognitive Architecture, Ethics, and Distributed Systems;  registered for Computational Geometry next fall.]*
 
 
 
@@ -31,7 +31,7 @@
 
 
 
-Preliminary interest list: 
+## Preliminary interest list: 
 
 
 First years'22
