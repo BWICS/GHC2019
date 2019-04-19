@@ -7,15 +7,15 @@
 
 ### FIRST YEARS (class of'22)     
 
-1. Phuong Luong  *[not applied;  Computer Science and Chemistry, and possibly a minor in English ;   took 1101 ;   next fall 2101 ]*
+1. Phuong Luong  *[not applied;  majors=Computer Science and Chemistry, and possibly a minor in English ;   took 1101 ;   next fall 2101 ]*
      
-1. Zeynep Tuna  *[applied, but hasn’t heard back yet;  Computer Science and Mathematics and minor  Economics; took  1101;  next fall 2101]*
+1. Zeynep Tuna  *[applied, but hasn’t heard back yet;  majors=Computer Science and Mathematics,  and minor  Economics; took  1101;  next fall 2101]*
 
     
 
 
 ### SOPHOMORES (class of '21)
-1. 
+1.  Vanessa Apira *[ applied, hasn't heard back; GSWS and Africana Studies double Major and an Anthropology minor; took 1103; took CS in highschool; no CS classes in the fall]*
 
 
 
