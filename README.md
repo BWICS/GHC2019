@@ -11,6 +11,8 @@
      
 1. Zeynep Tuna  *[applied, but hasn’t heard back yet;  majors=Computer Science and Mathematics,  and minor  Economics; took  1101;  next fall 2101]*
 
+1. Nicole Nigro *[applied but hasn't heard back; intends CS and Sociology double major;  took 1103 and 2101; registered for Ethics and either AI or Algorithms ]*
+
     
 
 
