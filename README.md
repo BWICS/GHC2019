@@ -13,6 +13,10 @@
 
 1. Nicole Nigro *[applied but hasn't heard back; intends CS and Sociology double major;  took 1103 and 2101; registered for Ethics and either AI or Algorithms ]*
 
+1. Jigyasa Subedi *[ applied but has not heard back; intends CS major with French major or minor; took 1101 and 2101; next fall ALgorithms; will be BWICS leader!]*
+
+
+
     
 
 
@@ -24,6 +28,10 @@
 
 #### JUNIORS (class of '20) 
 1. Pauline Unietis *[applied for GHC fellowship, but hasn't heard back;  CS major with an English minor;  has taken Intro, Data Structures, Algorithms, Systems, AI, Cognitive Architecture, Ethics, and Distributed Systems;  registered for Computational Geometry next fall.]*
+
+1. Charlotte Johnston *[ applied but hasnt heard back yet; CS and Education mahjors, minor film;took Intro CS, Data Structures, Social and Economic Networks, AI (abroad at DIS), Game Design (DIS), Algorithms and HCI; next fall Game Theory and Computational Creativity]*
+
+
 
 
 
