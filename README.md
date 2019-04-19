@@ -5,7 +5,7 @@
 
 ## Final list (as of April 2019)
 
-### FIRST YEARS (class of'22)     
+#### FIRST YEARS (class of'22)     
 
 1. Phuong Luong  *[not applied;  majors=Computer Science and Chemistry, and possibly a minor in English ;   took 1101 ;   next fall 2101 ]*
      
@@ -14,13 +14,13 @@
     
 
 
-### SOPHOMORES (class of '21)
+#### SOPHOMORES (class of '21)
 1.  Vanessa Apira *[ applied, hasn't heard back; GSWS and Africana Studies double Major and an Anthropology minor; took 1103; took CS in highschool; no CS classes in the fall]*
 
 
 
 
-### JUNIORS (class of '20) 
+#### JUNIORS (class of '20) 
 1. Pauline Unietis *[applied for GHC fellowship, but hasn't heard back;  CS major with an English minor;  has taken Intro, Data Structures, Algorithms, Systems, AI, Cognitive Architecture, Ethics, and Distributed Systems;  registered for Computational Geometry next fall.]*
 
 
@@ -33,7 +33,7 @@
 
 
 
-## Preliminary interest list: 
+#### Preliminary interest list: 
 
 
 First years'22
