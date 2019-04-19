@@ -1,5 +1,34 @@
 # GHC2019
 
+
+Final list: 
+
+FIRST YEARS '22: 
+    * Phuong Luong [not applied for a GHC fellowship; intends double major in Computer Science and Chemistry, and possibly a minor in English;  I have taken CSCI 1101; registered for CSCI 2101 next fall.]
+
+   * Zeynep Tuna [applied for the fellowship but I haven’t heard back as yet; intends major in Computer Science and Mathematics and minor  Economics; I took CSCI 1101 so far and requested Data Structures for next fall] 
+
+    
+
+
+SOPHOMORES'21
+
+
+
+
+JUNIORS'20: 
+
+
+
+
+
+
+
+
+
+
+
+
 Preliminary interest list: 
 
 
