@@ -1,24 +1,24 @@
 # GHC2019
 
 
-## Final list (April 2019)
+## Final list (as of April 2019)
 
-### FIRST YEARS '22
+### FIRST YEARS (class of'22)
 
-1. Phuong Luong *[not applied for a GHC fellowship; intends double major in Computer Science and Chemistry, and possibly a minor in English;  I have taken CSCI 1101; registered for CSCI 2101 next fall.]*
+1. Phuong Luong *[not applied for a GHC fellowship; intends double major in Computer Science and Chemistry, and possibly a minor in English;  taken 1101; requested 2101 next fall.]*
 
-1. Zeynep Tuna *[applied for the fellowship but hasn’t heard back yet; intends major in Computer Science and Mathematics and minor  Economics; took CSCI 1101 so far and requested Data Structures for next fall]*
+1. Zeynep Tuna *[applied for the fellowship but hasn’t heard back yet; intends major in Computer Science and Mathematics and minor  Economics; took 1101 so far and requested Data Structures for next fall]*
 
     
 
 
-### SOPHOMORES'21
+### SOPHOMORES (class of '21)
 1. 
 
 
 
 
-### JUNIORS'20: 
+### JUNIORS (class of '20) 
 1. Pauline Unietis *[applied for GHC fellowship, but haven't heard back;  CS major with an English minor;  taken Intro, Data Structures, Algorithms, Systems, AI, Cognitive Architecture, Ethics, and Distributed Systems;  registered for Computational Geometry next fall.]*
 
 
