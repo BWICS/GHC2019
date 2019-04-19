@@ -3,18 +3,13 @@
 
 
 
-
-
-
-
-
 ## Final list (as of April 2019)
 
-### FIRST YEARS (class of'22)
+### FIRST YEARS (class of'22)     
+
+1. Phuong Luong  *[not applied;  Computer Science and Chemistry, and possibly a minor in English ;   took 1101 ;   next fall 2101 ]*
      
-     1. Phuong Luong  *[not applied;  Computer Science and Chemistry, and possibly a minor in English ;   took 1101 ;   next fall 2101 ]*
-     
-     1. Zeynep Tuna  *[applied, but hasn’t heard back yet;  Computer Science and Mathematics and minor  Economics; took  1101;  next fall 2101]*
+1. Zeynep Tuna  *[applied, but hasn’t heard back yet;  Computer Science and Mathematics and minor  Economics; took  1101;  next fall 2101]*
 
     
 
