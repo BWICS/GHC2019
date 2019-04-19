@@ -14,9 +14,8 @@
 
      NAME          |GHC fellowship status |intended major(s) and minor | classes so far  | classes registered in fall19
      --------------|----------------------|----------------------------|-----------------|---------------------------
-1. Phuong Luong  | not applied for a GHC fellowship |  intends double major in Computer Science and Chemistry, and possibly a minor in English |  took 1101 so far|  requested 2101 next fall
-
-1. Zeynep Tuna | applied, but hasn’t heard back yet | intends major in Computer Science and Mathematics and minor  Economics| took 1101 so far| requested Data Structures for next fall
+ Phuong Luong  | not applied for a GHC fellowship |  intends double major in Computer Science and Chemistry, and possibly a minor in English |  took 1101 so far|  requested 2101 next fall
+Zeynep Tuna | applied, but hasn’t heard back yet | intends major in Computer Science and Mathematics and minor  Economics| took 1101 so far| requested Data Structures for next fall
 
     
 
