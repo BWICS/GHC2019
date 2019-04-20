@@ -15,6 +15,7 @@
 
 1. Jigyasa Subedi *[ applied but has not heard back; intends CS major with French major or minor; took 1101 and 2101; next fall ALgorithms; will be BWICS leader!]*
 
+1. Rose Xi *[ applied but not heard back; intends CS major and possibly Bio or Econ as second major; took 1103 and 2101; next fall 2330 Systems, 2350 Social and Economic Networks]*
 
 
     
@@ -22,6 +23,8 @@
 
 #### SOPHOMORES (class of '21)
 1.  Vanessa Apira *[ applied, hasn't heard back; GSWS and Africana Studies double Major and an Anthropology minor; took 1103; took CS in highschool; no CS classes in the fall]*
+
+1. Alina Lam *[applied but not heard back yet; CS major and Psychology minor; took Intro, Data Structures, Algorithms, and HCI. next fall requested Computational Creativity and Artificial Intelligence; BWICS leader! ]*
 
 
 
