@@ -1,5 +1,7 @@
 # GHC2019
 
+October 1-4, Orlando
+https://ghc.anitab.org/2019-attend/2019-location/
 
 
 
