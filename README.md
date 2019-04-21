@@ -28,6 +28,8 @@ https://ghc.anitab.org/2019-attend/2019-location/
 
 1. Alina Lam *[applied but not heard back yet; CS major and Psychology minor; took Intro, Data Structures, Algorithms, and HCI. next fall requested Computational Creativity and Artificial Intelligence; BWICS leader! ]*
 
+1. Juliana Taube *[applied but not heard back yet; Math major, CS minor; took 1101; next fall requested 2101 and Social Nets ]*
+
 
 
 
@@ -35,6 +37,12 @@ https://ghc.anitab.org/2019-attend/2019-location/
 1. Pauline Unietis *[applied for GHC fellowship, but hasn't heard back;  CS major with an English minor;  has taken Intro, Data Structures, Algorithms, Systems, AI, Cognitive Architecture, Ethics, and Distributed Systems;  registered for Computational Geometry next fall.]*
 
 1. Charlotte Johnston *[ applied but hasnt heard back yet; CS and Education mahjors, minor film;took Intro CS, Data Structures, Social and Economic Networks, AI (abroad at DIS), Game Design (DIS), Algorithms and HCI; next fall Game Theory and Computational Creativity]*
+
+1. Louisa Izydorczak *[ applied but not heard back yet; CS major, English minor; took Intro, Data Structures, Algorithms, Computational Geometry, Artificial Intelligence, Game Development, Human Computer Interaction and Systems; next fall Computational Game Theory and Computational Creativity]*
+
+1. Lila Hitzig *[applied but not heard back; CS and Education major;  took intro to cs, data structures, social and economic networks, AI (abroad), game development (abroad), algorithms and HCI; next fall Computational Creativity and Computational Game Theory]* 
+
+1. Allie Gross *[ applied but not heard back yet; CS and ES major; took: intro, Data Structures, Biostats, Social and Economic Networks, Algorithms, Governance and Regulation of Emerging Technologies (abroad), Theory of Computation and Cognitive Architecture. Next fall: Computational Creativity and Game Theory.  ]*
 
 
 
