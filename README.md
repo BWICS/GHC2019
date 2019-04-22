@@ -30,6 +30,8 @@ https://ghc.anitab.org/2019-attend/2019-location/
 
 1. Juliana Taube *[applied but not heard back yet; Math major, CS minor; took 1101; next fall requested 2101 and Social Nets ]*
 
+1. Anaise Manikunda *[ applied but has not heard back yet; MathCS major, francophone minor; took Data structures, Algorithms, Systems;  planning to take Computational Creativity in the fall ]*
+
 
 
 
