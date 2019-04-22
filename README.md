@@ -5,7 +5,7 @@ https://ghc.anitab.org/2019-attend/2019-location/
 
 
 
-## Confirmed Final list (as of April 22,4:25pm)
+## Confirmed Final list (as of April 22,4:55pm)
 
 #### FIRST YEARS (class of'22)     
 
