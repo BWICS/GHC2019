@@ -5,7 +5,7 @@ https://ghc.anitab.org/2019-attend/2019-location/
 
 
 
-## Confirmed Final list  (as of April 22,5:11pm)
+## Confirmed Final list  (as of April 22,5:19pm)
 ### Note: Everyone on the final list has confirmed to attend 
 
 #### FIRST YEARS (class of'22)     
@@ -53,6 +53,8 @@ https://ghc.anitab.org/2019-attend/2019-location/
 1. Anais Sarrazin *[applied but has not heard back yet; CS and Math double major; took data structures, algorithms, computing ethics and society, computer networks, cognitive architecture, and databases; next fall: computational creativity and computational game theory. ]*
 
 1. Hannah Donovan *[applied but has not heard back yet; CsMath major, ES minor; took:  Data Structures, Algorithms, Networks, Digital Text Analysis (DCS);  next fall: AI ]*
+
+1. Jeannie Davis *[applied last minute application may not have been complete; History major, CS minor; took 1101, Data Structures and Ethics; next  fall: either AI or Social Nets ]*
 
 
 
