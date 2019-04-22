@@ -5,7 +5,7 @@ https://ghc.anitab.org/2019-attend/2019-location/
 
 
 
-## Confirmed Final list (as of April 22,4:55pm)
+## Confirmed Final list (as of April 22,5:11pm)
 
 #### FIRST YEARS (class of'22)     
 
@@ -31,6 +31,9 @@ https://ghc.anitab.org/2019-attend/2019-location/
 1. Juliana Taube *[applied but not heard back yet; Math major, CS minor; took 1101; next fall requested 2101 and Social Nets ]*
 
 1. Anaise Manikunda *[ applied but has not heard back yet; MathCS major, francophone minor; took Data structures, Algorithms, Systems;  planning to take Computational Creativity in the fall ]*
+
+1. Kim Hancock  *[ applied for the fellowship but have not heard back yet; Math major, CS minor; atook:  intro,  data structures, algorithms;  next fall: signed up for computational game theory but didn't get in, so next semester I will likely take artificial intelligence ]*
+
 
 
 
