@@ -48,6 +48,8 @@ https://ghc.anitab.org/2019-attend/2019-location/
 
 1. Anais Sarrazin *[applied but has not heard back yet; CS and Math double major; took data structures, algorithms, computing ethics and society, computer networks, cognitive architecture, and databases; next fall: computational creativity and computational game theory. ]*
 
+1. Hannah Donovan *[applied but has not heard back yet; CsMath major, ES minor; took:  Data Structures, Algorithms, Networks, Digital Text Analysis (DCS);  next fall: AI ]*
+
 
 
 
