@@ -44,6 +44,8 @@ https://ghc.anitab.org/2019-attend/2019-location/
 
 1. Allie Gross *[ applied but not heard back yet; CS and ES major; took: intro, Data Structures, Biostats, Social and Economic Networks, Algorithms, Governance and Regulation of Emerging Technologies (abroad), Theory of Computation and Cognitive Architecture. Next fall: Computational Creativity and Game Theory.  ]*
 
+1. Anais Sarrazin *[applied but has not heard back yet; CS and Math double major; took data structures, algorithms, computing ethics and society, computer networks, cognitive architecture, and databases; next fall: computational creativity and computational game theory. ]*
+
 
 
 
