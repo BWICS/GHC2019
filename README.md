@@ -20,6 +20,8 @@ https://ghc.anitab.org/2019-attend/2019-location/
 
 1. Rose Xi *[ applied but not heard back; intends CS major and possibly Bio or Econ as second major; took 1103 and 2101; next fall 2330 Systems, 2350 Social and Economic Networks]*
 
+1. Laura Friel *[ did not apply; intends CS major and maybe film minor; took 1103 and 2101; next fall: ALgorithms and Systems; in ResearchME with Stacy]*
+
 
     
 
