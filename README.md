@@ -10,7 +10,7 @@ https://ghc.anitab.org/2019-attend/2019-location/
 
 #### FIRST YEARS  intending CS majors (class of'22)     
 
-1. Jigyasa Subedi *[ applied but has not heard back; intends CS major with French major or minor; took 1101 and 2101; next fall ALgorithms; will be BWICS leader!]*
+1. Jigyasa Subedi *[ applied but has not heard back; intends CS major with French major or minor; took 1101 and 2101; next fall ALgorithms;  BWICS leader]*
 
 1. Nicole Nigro *[applied but hasn't heard back; intends CS and Sociology double major;  took 1103 and 2101; next fall Ethics and either AI or Algorithms ]*
 
@@ -40,7 +40,7 @@ https://ghc.anitab.org/2019-attend/2019-location/
 
 1. Alina Lam *[applied but not heard back yet; CS major and Psychology minor; took Intro, Data Structures, Algorithms, and HCI. next fall requested Computational Creativity and Artificial Intelligence; BWICS leader! ]*
 
-1. Nell Fusco *[ applied but has not heard back yet;  double major in CS and Gov; took 1101, 2101, algorithms and systems;  next fall: did not get into classes, hopes for AI or compGeom ]*
+1. Nell Fusco *[applied but has not heard back yet;  double major in CS and Gov; took 1101, 2101, algorithms and systems;  next fall: did not get into classes, hopes for AI or compGeom ]*
 
 
 #### SOPHOMORES  CS minors (class of '21)
@@ -49,9 +49,9 @@ https://ghc.anitab.org/2019-attend/2019-location/
 
 1. Kim Hancock  *[applied but has not heard back yet; Math major, CS minor; took:  intro,  data structures, algorithms;  next fall: signed up for computational game theory but didn't get in, so likely AI ]*
 
-1. Anaise Manikunda *[ applied but has not heard back yet; MathCS major, francophone minor; took Data structures, Algorithms, Systems;  planning to take Computational Creativity in the fall ]*
+1. Anaise Manikunda *[applied but has not heard back yet; MathCS major, francophone minor; took Data structures, Algorithms, Systems;  planning to take Computational Creativity in the fall ]*
 
-1.  Vanessa Apira *[ applied, hasn't heard back; GSWS and Africana Studies double Major and an Anthropology minor; took 1103; took CS in highschool; no CS classes in the fall]*
+1.  Vanessa Apira *[applied, hasn't heard back; GSWS and Africana Studies double Major and an Anthropology minor; took 1103; took CS in highschool; no CS classes in the fall]*
 
 
 
@@ -60,23 +60,25 @@ https://ghc.anitab.org/2019-attend/2019-location/
 
 #### JUNIORS , CS majors (class of '20) 
 
-1. Damini Singh *[ applied but has not heard back yet; CS and Math double major; took: Intro, Data Structures, Algorithms, Systems, Game Theory, AI, HCI, Cognitive Architecture; next fall:  Social and Economic Networks ; BWICS leader ]* 
+1. Damini Singh *[applied but has not heard back yet; CS and Math double major; took: Intro, Data Structures, Algorithms, Systems, Game Theory, AI, HCI, Cognitive Architecture; next fall:  Social and Economic Networks ; BWICS leader ]* 
 
-1. Pauline Unietis *[applied for GHC fellowship, but hasn't heard back;  CS major with an English minor;  has taken Intro, Data Structures, Algorithms, Systems, AI, Cognitive Architecture, Ethics, and Distributed Systems;  registered for Computational Geometry next fall.]*
+1. Pauline Unietis *[applied but hasn't heard back;  CS major with an English minor;  has taken Intro, Data Structures, Algorithms, Systems, AI, Cognitive Architecture, Ethics, and Distributed Systems;  registered for Computational Geometry next fall.]*
 
-1. Charlotte Johnston *[ applied but hasnt heard back yet; CS and Education major, minor film; took Intro CS, Data Structures, Social and Economic Networks, AI (abroad at DIS), Game Design (DIS), Algorithms and HCI; next fall Game Theory and Computational Creativity]*
+1. Charlotte Johnston *[applied but hasnt heard back yet; CS and Education major, minor film; took Intro CS, Data Structures, Social and Economic Networks, AI (abroad at DIS), Game Design (DIS), Algorithms and HCI; next fall Game Theory and Computational Creativity]*
 
-1. Louisa Izydorczak *[ applied but not heard back yet; CS major, English minor; took Intro, Data Structures, Algorithms, Computational Geometry, Artificial Intelligence, Game Development, Human Computer Interaction and Systems; next fall Computational Game Theory and Computational Creativity]*
+1. Louisa Izydorczak *[applied but not heard back yet; CS major, English minor; took Intro, Data Structures, Algorithms, Computational Geometry, Artificial Intelligence, Game Development, Human Computer Interaction and Systems; next fall Computational Game Theory and Computational Creativity]*
 
 1. Lila Hitzig *[applied but not heard back; CS and Education major;  took intro to cs, data structures, social and economic networks, AI (abroad), game development (abroad), algorithms and HCI; next fall Computational Creativity and Computational Game Theory]* 
 
-1. Allie Gross *[ applied but not heard back yet; CS and ES major; took: intro, Data Structures, Biostats, Social and Economic Networks, Algorithms, Governance and Regulation of Emerging Technologies (abroad), Theory of Computation and Cognitive Architecture. Next fall: Computational Creativity and Game Theory.  ]*
+1. Allie Gross *[ pplied but not heard back yet; CS and ES major; took: intro, Data Structures, Biostats, Social and Economic Networks, Algorithms, Governance and Regulation of Emerging Technologies (abroad), Theory of Computation and Cognitive Architecture. Next fall: Computational Creativity and Game Theory.  ]*
 
 1. Anais Sarrazin *[applied but has not heard back yet; CS and Math double major; took data structures, algorithms, computing ethics and society, computer networks, cognitive architecture, and databases; next fall: computational creativity and computational game theory. ]*
 
 
 
 ### JUNIORS CS minors  (class of '20) 
+
+1. Becky Berman *[applied but hasnt heard back yet;  major Gov, CS minor; took Intro, Data Structures, Algorithms, Foundations of Computer Systems, and Cognitive Architecture; ]*
 
 1. Hannah Donovan *[applied but has not heard back yet; CsMath major, ES minor; took:  Data Structures, Algorithms, Networks, Digital Text Analysis (DCS);  next fall: AI ]*
 
