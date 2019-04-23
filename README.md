@@ -5,14 +5,14 @@ https://ghc.anitab.org/2019-attend/2019-location/
 
 
 
-## Confirmed Final list  (as of April 22,5:19pm)
+## Confirmed Final list  (as of April 23, 1:19pm)
 ### Note: Everyone on the final list has confirmed to attend 
 
 #### FIRST YEARS (class of'22)     
 
 1. Phuong Luong  *[not applied;  majors=Computer Science and Chemistry, and possibly a minor in English ;   took 1101 ;   next fall 2101 ]*
      
-1. Zeynep Tuna  *[applied, but hasn’t heard back yet;  majors=Computer Science and Mathematics,  and minor  Economics; took  1101;  next fall 2101]*
+1. Zeynep Tuna  *[applied, but hasn’t heard back yet;  intends double major in Computer Science and Mathematics,  and minor  Economics; took  1101;  next fall 2101]*
 
 1. Nicole Nigro *[applied but hasn't heard back; intends CS and Sociology double major;  took 1103 and 2101; registered for Ethics and either AI or Algorithms ]*
 
@@ -21,6 +21,8 @@ https://ghc.anitab.org/2019-attend/2019-location/
 1. Rose Xi *[ applied but not heard back; intends CS major and possibly Bio or Econ as second major; took 1103 and 2101; next fall 2330 Systems, 2350 Social and Economic Networks]*
 
 1. Laura Friel *[ did not apply; intends CS major and maybe film minor; took 1103 and 2101; next fall: ALgorithms and Systems; in ResearchME with Stacy]*
+
+1. Sonia Shah *[applied but has not heard back yet; intends interdisc major in MathEcon, minor in CS; took 1103, next fall 2101 ]*
 
 
     
