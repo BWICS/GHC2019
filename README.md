@@ -86,6 +86,8 @@ https://ghc.anitab.org/2019-attend/2019-location/
 
 1. Jeannie Davis *[applied last minute application may not have been complete; History major, CS minor; took 1101, Data Structures and Ethics; next  fall: either AI or Social Nets ]*
 
+1. Jhada King *[ started but did not complete GHC recommendation; Africana Studies Major, Computer Science minor;  Has taken Intro, advanced intro, data structures, AI, algorithms; next fall intending to take algorithms and computational creativity ]*
+
 
 
 
