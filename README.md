@@ -6,7 +6,7 @@ https://ghc.anitab.org/2019-attend/2019-location/
 
 
 ## Confirmed Final list  (as of April 23, 1:19pm)
-### Note: Everyone on the final list has confirmed to attend 
+### Note: Everyone on the final list has confirmed that they want to attend GHC
 
 #### FIRST YEARS (class of'22)     
 
@@ -38,6 +38,8 @@ https://ghc.anitab.org/2019-attend/2019-location/
 1. Anaise Manikunda *[ applied but has not heard back yet; MathCS major, francophone minor; took Data structures, Algorithms, Systems;  planning to take Computational Creativity in the fall ]*
 
 1. Kim Hancock  *[ applied for the fellowship but have not heard back yet; Math major, CS minor; atook:  intro,  data structures, algorithms;  next fall: signed up for computational game theory but didn't get in, so next semester I will likely take artificial intelligence ]*
+
+1. Nell Fusco *[ applied but has not heard back yet;  double major in CS and Gov; took 1101, 2101, algorithms and systems;  next fall: did not get into classes, hopes for AI or compGeom ]*
 
 
 
