@@ -42,6 +42,8 @@ https://ghc.anitab.org/2019-attend/2019-location/
 
 1. Nell Fusco *[applied but has not heard back yet;  double major in CS and Gov; took 1101, 2101, algorithms and systems;  next fall: did not get into classes, hopes for AI or compGeom ]*
 
+1. Anam Shah *[applied but has not heard  back yet; double major in CS  and asian studies; took: 2101, algorithms, systems; next fall: AI and xxx]*
+
 
 #### SOPHOMORES  CS minors (class of '21)
 
@@ -97,7 +99,7 @@ https://ghc.anitab.org/2019-attend/2019-location/
 
 
 #### Note:  
-Preliminary  interest who have not confirmed/replied:  Adelaide Evans [ first year], Irene Lunt [sophomore, intends MathCS], Anam Shah [sophomore, CS & asian studies major; spring 19 in ALgorithma sand ItS]; Emme McCabe [junior, CS major; econ minor] 
+Preliminary  interest who have not confirmed/replied:  Adelaide Evans [ first year], Irene Lunt [sophomore, intends MathCS];  Emme McCabe [junior, CS major; econ minor] 
  
 
 
