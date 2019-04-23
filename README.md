@@ -5,7 +5,7 @@ https://ghc.anitab.org/2019-attend/2019-location/
 
 
 
-## Confirmed Final list  (as of April 23, 1:19pm)
+## Confirmed Final list  (as of April 23, 3:55pm)
 ### Note: Everyone on the final list has confirmed that they want to attend GHC
 
 #### FIRST YEARS  intending CS majors (class of'22)     
@@ -25,7 +25,7 @@ https://ghc.anitab.org/2019-attend/2019-location/
 
 1. Yadira Cruz *[applied but not heard back;  intends CS major and sociology minor; took 1103; next fall in 2101 ]*
 
-1. Michelle Luan  *[ applied for GHC scholarship (has not heard back; intends Computer science and math double major, economics minor;  has taken intro to CS and data structures, taking algorithms in the fall ]*
+1. Michelle Luan  *[ applied but has not heard back; intends Computer science and math double major, economics minor;  has taken intro to CS and data structures, taking algorithms in the fall ]*
 
 
 
