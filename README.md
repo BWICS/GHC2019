@@ -82,6 +82,8 @@ https://ghc.anitab.org/2019-attend/2019-location/
 
 1. Becky Berman *[applied but hasnt heard back yet;  major Gov, CS minor; took Intro, Data Structures, Algorithms, Foundations of Computer Systems, and Cognitive Architecture; ]*
 
+1. Angela Goldstheyn *[ did not apply for GHC scholarship; double Major in Math and Economics, Computer Science minor; has taken intro,  data structures, algorithms, theory of computation, HCI; next fall taking Artificial Intelligence and Computational Game Theory ]*
+
 1. Hannah Donovan *[applied but has not heard back yet; CsMath major, ES minor; took:  Data Structures, Algorithms, Networks, Digital Text Analysis (DCS);  next fall: AI ]*
 
 1. Jeannie Davis *[applied last minute application may not have been complete; History major, CS minor; took 1101, Data Structures and Ethics; next  fall: either AI or Social Nets ]*
