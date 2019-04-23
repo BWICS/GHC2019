@@ -94,16 +94,10 @@ https://ghc.anitab.org/2019-attend/2019-location/
 
 ### Preliminary  interest who have not confirmed/replied: 
 
-First years'22
-  
-  * Adelaide Evans []
-    
-Sophomores'21
-    * Irene Lunt               [intends MathCS] 
-  * Anam Shah                [CS & asian studies major; spring 19 in ALgorithma sand ItS] 
-  
-Juniors'20
-   * Emme McCabe        [CS major; econ minor] 
+ * Adelaide Evans [ first year]
+ * Irene Lunt               [sophomore, intends MathCS] 
+ * Anam Shah                [sophomore, CS & asian studies major; spring 19 in ALgorithma sand ItS] 
+ * Emme McCabe        [junior, CS major; econ minor] 
  
 
 
