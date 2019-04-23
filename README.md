@@ -58,7 +58,7 @@ https://ghc.anitab.org/2019-attend/2019-location/
 
 
 
-#### JUNIORS , CS majors (class of '20) 
+#### JUNIORS CS majors (class of '20) 
 
 1. Damini Singh *[applied but has not heard back yet; CS and Math double major; took: Intro, Data Structures, Algorithms, Systems, Game Theory, AI, HCI, Cognitive Architecture; next fall:  Social and Economic Networks ; BWICS leader ]* 
 
