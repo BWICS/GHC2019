@@ -46,6 +46,7 @@ https://ghc.anitab.org/2019-attend/2019-location/
 
 1. Anam Shah *[applied but has not heard  back yet; double major in CS  and asian studies; took: 2101, algorithms, systems; next fall: AI and xxx]*
 
+1. Cara Nunley *[did not apply; double major CS and Math; 200k 1103, 2200, 2330, 2200; next fall: comp geom and Social networks; tried to get in last year but could not ]*
 
 #### SOPHOMORES  CS minors (class of '21)
 
